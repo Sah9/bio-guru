@@ -1,0 +1,28 @@
+
+.h3{
+    text-align: center;
+}
+.foot {
+    margin-top: 15px;
+    display: flex;
+    cursor: pointer;
+    justify-content: center;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-image: url(https://images-na.ssl-images-amazon.com/images/I/61fxNvE3aWL.jpg);
+    
+}
+.title{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+.des{
+    border: 2px solid gray;
+    text-align: center;
+    margin-left: 50px;
+    margin: 15px 50px;
+}
